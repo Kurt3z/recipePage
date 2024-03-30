@@ -15,6 +15,7 @@ body {
   font-family: "Outfit", sans-serif;
   background-color: #f3e6d8;
   width: 100vw;
+  min-height: 1955px;
   color: #343a40;
   overflow-x: hidden;
 }
@@ -56,9 +57,10 @@ hr {
 .main {
   background-color: #fff;
   border-radius: 20px;
-  width: 37%;
+  width: 100%;
+  max-width: 736px;
   margin: 0 auto;
-  margin-top: 2.4rem;
+  margin-top: 7.7rem;
   padding: 3.2rem;
 }
 
