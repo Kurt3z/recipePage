@@ -18,8 +18,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Kurt3z/recipePage)
+- [Live Site URL](https://kurt3z.github.io/recipePage/)
 
 ### Built with
 
@@ -31,3 +31,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Author
 
 - Frontend Mentor - [@Kurt3z](https://www.frontendmentor.io/profile/Kurt3z)
+- GitHub - [Kurt3z](https://github.com/Kurt3z)
